@@ -26,14 +26,14 @@ li {
   align-items: center;
   gap: 40px;
   min-height: 100%;
-  background: rgb(232, 225, 173);
+  background: rgb(134, 230, 70);
   padding: 40px;
 }
 h1 {
   font-size: 56px;
-  color: rgb(199, 128, 36);
+  color: rgb(55, 117, 39);
 }
 .lesson-title {
   font-size: 40px;
-  color: brown;
+  color: rgb(42, 136, 165);
 }
